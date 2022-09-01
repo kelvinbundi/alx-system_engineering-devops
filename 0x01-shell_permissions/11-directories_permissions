@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d_exec chmod a+x __{3 +\
